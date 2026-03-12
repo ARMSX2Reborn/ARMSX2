@@ -17,7 +17,7 @@
 # My Source ARMSX2 ( Original )
 
 <a href="https://github.com/XDiaoXuanX/ARMSX2.git">
-  <img src="https://github.com/fluidicon.png" alt="My Source ARMSX2 ( Original )" height="50%">
+  <img src="https://github.com/fluidicon.png" alt="My Source ARMSX2 ( Original )" height="30%">
 </a>
 
 # Website Backup My Build
