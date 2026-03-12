@@ -1,6 +1,6 @@
 # ARMSX2
 
-* # This Github Only Share APK Only
+# ***This Github Only Share APK Only***
 
 # Official Source
 * [Link Here](https://github.com/ARMSX2/ARMSX2.git)
