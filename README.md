@@ -13,7 +13,7 @@
 # ***This Github Only Share APK Only***
 
 # Official Source ARMSX2
-* [Link Here](https://github.com/ARMSX2/ARMSX2.git)
+[![Official Source ARMSX2](https://github.com/fluidicon.png)](https://github.com/ARMSX2/ARMSX2.git)
 # My Source ARMSX2 ( Original )
 [![My Source ARMSX2 ( Original )](https://github.com/fluidicon.png)](https://github.com/XDiaoXuanX/ARMSX2.git)
 # Website Backup My Build
