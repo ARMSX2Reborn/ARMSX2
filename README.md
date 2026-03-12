@@ -19,6 +19,13 @@
 # Website Backup My Build
 * [Link Here](https://gofile.io/d/8aJ2Eq)
 
+## Download Via Playstore
+
+ARMSX2 Official is available on the Google Play Store once released. 
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80"/>](https://play.google.com/store/apps/details?id=come.nanodata.armsx2)
+
+
 ## Additional Credits
 
 [PCSX2](https://github.com/PCSX2/pcsx2) - ARMSX2 would not be possible without the legendary work from the PCSX2 team and their patience and understanding regarding this project!
