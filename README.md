@@ -4,7 +4,7 @@
 
 # ARMSX2
 
-[![Official Discord](https://img.shields.io/discord/914421153827794975?logo=discord&logoColor=white&label=ARMSX2%20Discord&color=5865F2)](https://discord.gg/KwAChKDctz)
+[![Official Discord](https://img.shields.io/discord/914421153827794975?logo=discord&logoColor=white&label=ARMSX2%20Discord&color=5865F2)](https://discord.gg/7dQ4RZ8RSj)
 [![Official Patreon](https://img.shields.io/endpoint?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DARMSX2&label=Patreon)](https://patreon.com/ARMSX2)
 [![Official Nightly Build](https://github.com/ARMSX2/ARMSX2/actions/workflows/android_nightly_build.yml/badge.svg)](https://github.com/ARMSX2/ARMSX2/actions/workflows/android_nightly_build.yml)
 
@@ -14,8 +14,6 @@
 
 # Official Source ARMSX2
 * [Link Here](https://github.com/ARMSX2/ARMSX2.git)
-# Official Discord ARMSX2
-* [Link Here](https://discord.gg/7dQ4RZ8RSj)
 # My Source ARMSX2 ( Original )
 * [Link Here](https://github.com/XDiaoXuanX/ARMSX2.git)
 # Website Backup My Build
