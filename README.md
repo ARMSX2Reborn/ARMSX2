@@ -12,6 +12,11 @@
 * [Link Here](https://gofile.io/d/8aJ2Eq)
 
 
+# THANKS FOR FOR
+> Moon ( Official Dev ARMSX2 )
+> Tahlerth ( Official Dev AetherSX2 )
+
+
 # FREE
 # NO PASSWORD
 # SAFE
