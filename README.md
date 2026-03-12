@@ -17,7 +17,7 @@
 # My Source ARMSX2 ( Original )
 * [Link Here](https://github.com/XDiaoXuanX/ARMSX2.git)
 # Website Backup My Build
-* [<img src="[https://gofile.io/dist/img/logo-small-og.png]" alt="Get it on Gofile" height="80"/>](https://gofile.io/d/8aJ2Eq)
+* [![Website Backup My Build](https://gofile.io/dist/img/logo-small-og.png)](https://patreon.com/ARMSX2)
 
 ## Download Via Playstore
 
