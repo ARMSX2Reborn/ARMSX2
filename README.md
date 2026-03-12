@@ -19,6 +19,10 @@
 # Website Backup My Build
 [![Website Backup My Build](https://gofile.io/dist/img/logo-small-og.png)](https://gofile.io/d/8aJ2Eq)
 
+# Changelog ARMSX2 Reborn
+
+[Click Here](https://github.com/ARMSX2Reborn/ARMSX2/blob/master/sub-update/changelog.txt)
+
 ## Download Via Playstore
 
 ARMSX2 Official is available on the Google Play Store once released. 
