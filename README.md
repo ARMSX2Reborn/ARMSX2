@@ -10,3 +10,9 @@
 * [Link Here](https://github.com/XDiaoXuanX/ARMSX2.git)
 # Website Backup My Build
 * [Link Here](https://gofile.io/d/8aJ2Eq)
+
+
+# FREE
+# NO PASSWORD
+# SAFE
+# NO VIRUS / MALWARE
