@@ -2,3 +2,7 @@
 > Increase Upscale ( old )
 * V.2
 > Increase FPS Limit ( old )
+* V.3
+> Increase Upscale ( New ) ( WIP )
+* V.4
+> Increase FPS Limit ( New ) ( WIP )
