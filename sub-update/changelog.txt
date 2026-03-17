@@ -3,11 +3,11 @@
 * V.2
 > Increase FPS Limit ( old )
 * V.3
-> Increase Upscale ( New ) ( WIP )
+> Increase Upscale ( New ) ( ✅ )
 * V.4
 > Increase FPS Limit ( New ) ( WIP )
 * V.5
-> Add Translation ( WIP )
+> Add Translation ( ✅ )
 * V.6
 > Fix Pnach ( ❌ )
 * V.7
