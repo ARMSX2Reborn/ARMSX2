@@ -6,3 +6,5 @@
 > Increase Upscale ( New ) ( WIP )
 * V.4
 > Increase FPS Limit ( New ) ( WIP )
+* V.5
+> Fix VuClamp ( WIP )
