@@ -2,4 +2,3 @@
 > Increase Upscale ( ✅ )
 > Increase FPS Limit ( ✅ )
 > Add Translation ( ✅ )
-> ~Add Debug Optimize~ ( ❌ )
