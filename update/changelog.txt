@@ -3,8 +3,10 @@
 * V.2
 > Increase FPS Limit ( old )
 * V.3
-> Increase Upscale ( New ) ( WIP )
+> Increase Upscale ( ✅ )
 * V.4
-> Increase FPS Limit ( New ) ( WIP )
+> Increase FPS Limit ( ✅ )
 * V.5
-> Add Translation ( WIP )
+> Add Translation ( ✅ )
+* V.7
+> Add Debug Optimize ( ✅ )
