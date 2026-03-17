@@ -9,7 +9,7 @@
 * V.5
 > Add Translation ( WIP )
 * V.6
-> Fix Pnach ( WIP )
+> Fix Pnach ( ❌ )
 * V.7
 > Add Debug Optimize ( WIP )
 * V.8
