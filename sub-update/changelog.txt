@@ -7,4 +7,10 @@
 * V.4
 > Increase FPS Limit ( New ) ( WIP )
 * V.5
+> Add Translation ( WIP )
+* V.6
+> Fix Pnach ( WIP )
+* V.7
+> Add Debug Optimize ( WIP )
+* V.8
 > Fix VuClamp ( WIP )
