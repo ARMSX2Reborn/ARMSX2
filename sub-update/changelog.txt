@@ -14,3 +14,8 @@
 > Add Debug Optimize ( WIP )
 * V.8
 > Fix VuClamp ( WIP )
+* V.9
+> Delete Old Base Add New Base
+> Add FPS Limit Controller ( WIP )
+> Add Jit Dev ( WIP )
+> Add Disc Swap Option ( WIP )
